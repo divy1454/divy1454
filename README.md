@@ -1,7 +1,6 @@
-<div align="center" style="background-image: url(''); background-size: cover; padding: 20px; border-radius: 10px;">
+![logo](https://github.com/divy1454/divy1454/blob/main/DSC_4406.JPG)
   <h1>Hi 👋, I'm Divy Patel</h1>
   <h3>A passionate Python/PHP Developer from India</h3>
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divy1454&label=Profile%20views&color=0e75b6&style=flat" alt="divy1454" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divy1454" alt="divy1454" /></a> </p>
